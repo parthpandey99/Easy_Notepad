@@ -1,5 +1,5 @@
 <activity
-    android:name=".MainActivity"
+    android:name=".activityName"
     android:exported="true"
     android:launchMode="singleTop"
     android:theme="@style/LaunchTheme"
